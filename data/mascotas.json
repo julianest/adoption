@@ -1,45 +1,34 @@
 {
-    "mascotas":[
-        {
-            "perros":[
-                {
-                    "id":1,
-                    "imgPerfil": "./img/rocky.png",
-                    "nombre":"Rocky",
-                    "iconoGenero": "",
-                    "iconoGeneralRaza": "",
-                    "raza":"Rottweiler",
-                    "iconoGeneralEdad": "",
-                    "edad": "6 Meses",
-                    "iconoGeneralUbicacion":"",
-                    "direccion":"4140 Parker Rd. Allentown, New Mexico 31134",
-                    "personalidad":[
-                        "person1",
-                        "person2",
-                        "person3"
-                    ]
-                },
-                {
-                    "id":2,
-                    "imgPerfil": "./img/nieve.png",
-                    "nombre":"Nieve",
-                    "iconoGenero": "",
-                    "iconoGeneralRaza": "",
-                    "raza":"Copo de Nieve",
-                    "iconoGeneralEdad": "",
-                    "edad": "4 Meses",
-                    "iconoGeneralUbicacion":"",
-                    "direccion":"Av. 17 cra 28, Bogota",
-                    "personalidad":[
-                        "person1",
-                        "person2",
-                        "person3"
-                    ]
-                }
-            ],
+    "perros":[
+                    {
+                        "id":1,
+                        "imgPerfil": "./img/rocky.png",
+                        "nombre":"Rocky",
+                        "iconoGenero": "",
+                        "iconoGeneralRaza": "",
+                        "raza":"Rottweiler",
+                        "iconoGeneralEdad": "",
+                        "edad": "6 Meses",
+                        "iconoGeneralUbicacion":"",
+                        "direccion":"4140 Parker Rd. Allentown, New Mexico 31134"
+                        
+                    },
+                    {
+                        "id":2,
+                        "imgPerfil": "./img/nieve.png",
+                        "nombre":"Nieve",
+                        "iconoGenero": "",
+                        "iconoGeneralRaza": "",
+                        "raza":"Copo de Nieve",
+                        "iconoGeneralEdad": "",
+                        "edad": "4 Meses",
+                        "iconoGeneralUbicacion":"",
+                        "direccion":"Av. 17 cra 28, Bogota"
+                    }
+                ],
 
-            "gatos":[
-                {
+    "gatos":[
+                    {
                         "id":1,
                         "imgPerfil": "./img/misky.png",
                         "nombre":"misky",
@@ -49,12 +38,7 @@
                         "iconoGeneralEdad": "",
                         "edad": "8 Meses",
                         "iconoGeneralUbicacion":"",
-                        "direccion":"cra 85 calle 24, Medellin",
-                        "personalidad":[
-                            "person1",
-                            "person2",
-                            "person3"
-                        ]
+                        "direccion":"cra 85 calle 24, Medellin"
                     },
                     {
                         "id":2,
@@ -66,14 +50,7 @@
                         "iconoGeneralEdad": "",
                         "edad": "11 Meses",
                         "iconoGeneralUbicacion":"",
-                        "direccion":"Av. 11 cra 28, Ibague",
-                        "personalidad":[
-                            "person1",
-                            "person2",
-                            "person3"
-                        ]
+                        "direccion":"Av. 11 cra 28, Ibague"
                     }
-            ]
-        }   
-    ]
+            ]   
 }
