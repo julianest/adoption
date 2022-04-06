@@ -1,7 +1,7 @@
 {
-    "mascotas":[
+    
         
-            "perros":[
+       "perros":[
                 {
                     "id":1,
                     "imgPerfil": "./img/rocky.png",
@@ -75,5 +75,5 @@
                     }
             ]
            
-    ]
+    
 }
