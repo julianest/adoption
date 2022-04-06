@@ -23,6 +23,30 @@
                         "edad": "4 Meses",
                         "iconoGeneralUbicacion":"",
                         "direccion":"Av. 17 cra 28, Bogota"
+                    },
+                    {
+                        "id":3,
+                        "imgPerfil": "./img/bansky.png",
+                        "nombre":"Bansky",
+                        "iconoGenero": "",
+                        "iconoGeneralRaza": "",
+                        "raza":"Coller",
+                        "iconoGeneralEdad": "",
+                        "edad": "8 Meses",
+                        "iconoGeneralUbicacion":"",
+                        "direccion":"Av. 17 cra 28, Bogota"
+                    },
+                    {
+                        "id":4,
+                        "imgPerfil": "./img/trosky.png",
+                        "nombre":"Trosky",
+                        "iconoGenero": "",
+                        "iconoGeneralRaza": "",
+                        "raza":"pugg",
+                        "iconoGeneralEdad": "",
+                        "edad": "11 Meses",
+                        "iconoGeneralUbicacion":"",
+                        "direccion":"Av. 17 cra 28, Bogota"
                     }
                 ],
     "gatos":[
@@ -45,6 +69,30 @@
                         "iconoGenero": "",
                         "iconoGeneralRaza": "",
                         "raza":"Emirato",
+                        "iconoGeneralEdad": "",
+                        "edad": "11 Meses",
+                        "iconoGeneralUbicacion":"",
+                        "direccion":"Av. 11 cra 28, Ibague"
+                    },
+                    {
+                        "id":3,
+                        "imgPerfil": "./img/cowler.png",
+                        "nombre":"cowler",
+                        "iconoGenero": "",
+                        "iconoGeneralRaza": "",
+                        "raza":"Arabe",
+                        "iconoGeneralEdad": "",
+                        "edad": "6 Meses",
+                        "iconoGeneralUbicacion":"",
+                        "direccion":"Av. 11 cra 28, Ibague"
+                    },
+                    {
+                        "id":4,
+                        "imgPerfil": "./img/rowly.png",
+                        "nombre":"Rowly",
+                        "iconoGenero": "",
+                        "iconoGeneralRaza": "",
+                        "raza":"Perte",
                         "iconoGeneralEdad": "",
                         "edad": "11 Meses",
                         "iconoGeneralUbicacion":"",
