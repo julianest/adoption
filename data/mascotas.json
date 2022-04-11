@@ -4,99 +4,115 @@
                         "id":1,
                         "imgPerfil": "./img/rocky.png",
                         "nombre":"Rocky",
-                        "iconoGenero": "",
-                        "iconoGeneralRaza": "",
+                        "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/male_ty71jj.png",
                         "raza":"Rottweiler",
-                        "iconoGeneralEdad": "",
                         "edad": "6 Meses",
-                        "iconoGeneralUbicacion":"",
-                        "direccion":"4140 Parker Rd. Allentown, New Mexico 31134"
+                        "direccion":"4140 Parker Rd. Allentown, New Mexico 31134",
+                        "personalidad":[
+                            "T","C","I"
+                        ],
+                        "favorito": false,
+                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
                     },
                     {
                         "id":2,
                         "imgPerfil": "./img/nieve.png",
                         "nombre":"Nieve",
-                        "iconoGenero": "",
-                        "iconoGeneralRaza": "",
+                        "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/female_g6x72d.png",
                         "raza":"Copo de Nieve",
-                        "iconoGeneralEdad": "",
                         "edad": "4 Meses",
-                        "iconoGeneralUbicacion":"",
-                        "direccion":"Av. 17 cra 28, Bogota"
+                        "direccion":"Av. 17 cra 28, Bogota",
+                        "personalidad":[
+                            "T","C","I"
+                        ],
+                        "favorito": false,
+                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
                     },
                     {
                         "id":3,
                         "imgPerfil": "./img/bansky.png",
                         "nombre":"Bansky",
-                        "iconoGenero": "",
-                        "iconoGeneralRaza": "",
+                        "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/female_g6x72d.png",
                         "raza":"Coller",
-                        "iconoGeneralEdad": "",
                         "edad": "8 Meses",
-                        "iconoGeneralUbicacion":"",
-                        "direccion":"Av. 17 cra 28, Bogota"
+                        "direccion":"Av. 17 cra 28, Bogota",
+                        "personalidad":[
+                            "T","C","I"
+                        ],
+                        "favorito": false,
+                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
                     },
                     {
                         "id":4,
                         "imgPerfil": "./img/trosky.png",
                         "nombre":"Trosky",
-                        "iconoGenero": "",
-                        "iconoGeneralRaza": "",
+                        "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/male_ty71jj.png",
                         "raza":"pugg",
-                        "iconoGeneralEdad": "",
                         "edad": "11 Meses",
-                        "iconoGeneralUbicacion":"",
-                        "direccion":"Av. 17 cra 28, Bogota"
+                        "direccion":"Av. 17 cra 28, Bogota",
+                        "personalidad":[
+                            "T","C","I"
+                        ],
+                        "favorito": false,
+                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
                     }
                 ],
     "gatos":[
                     {
                         "id":1,
                         "imgPerfil": "./img/misky.png",
-                        "nombre":"misky",
-                        "iconoGenero": "",
-                        "iconoGeneralRaza": "",
+                        "nombre":"Misky",
+                        "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/female_g6x72d.png",
                         "raza":"Criollo",
-                        "iconoGeneralEdad": "",
                         "edad": "8 Meses",
-                        "iconoGeneralUbicacion":"",
-                        "direccion":"cra 85 calle 24, Medellin"
+                        "direccion":"cra 85 calle 24, Medellin",
+                        "personalidad":[
+                            "T","C","I"
+                        ],
+                        "favorito": false,
+                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
                     },
                     {
                         "id":2,
                         "imgPerfil": "./img/rowly.png",
-                        "nombre":"rowly",
-                        "iconoGenero": "",
-                        "iconoGeneralRaza": "",
+                        "nombre":"Rowly",
+                        "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/male_ty71jj.png",
                         "raza":"Emirato",
-                        "iconoGeneralEdad": "",
                         "edad": "11 Meses",
-                        "iconoGeneralUbicacion":"",
-                        "direccion":"Av. 11 cra 28, Ibague"
+                        "direccion":"Av. 11 cra 28, Ibague",
+                        "personalidad":[
+                            "T","C","I"
+                        ],
+                        "favorito": false,
+                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
                     },
                     {
                         "id":3,
                         "imgPerfil": "./img/cowler.png",
-                        "nombre":"cowler",
-                        "iconoGenero": "",
-                        "iconoGeneralRaza": "",
+                        "nombre":"Cowler",
+                        "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/male_ty71jj.png",
                         "raza":"Arabe",
-                        "iconoGeneralEdad": "",
                         "edad": "6 Meses",
-                        "iconoGeneralUbicacion":"",
-                        "direccion":"Av. 11 cra 28, Ibague"
+                        "direccion":"Av. 11 cra 28, Ibague",
+                        "personalidad":[
+                            "T","C","I"
+                        ],
+                        "favorito": false,
+                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
                     },
                     {
                         "id":4,
                         "imgPerfil": "./img/rowly.png",
-                        "nombre":"Rowly",
-                        "iconoGenero": "",
-                        "iconoGeneralRaza": "",
+                        "nombre":"Maicy",
+                        "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/female_g6x72d.png",
                         "raza":"Perte",
-                        "iconoGeneralEdad": "",
                         "edad": "11 Meses",
-                        "iconoGeneralUbicacion":"",
-                        "direccion":"Av. 11 cra 28, Ibague"
+                        "direccion":"Av. 11 cra 28, Ibague",
+                        "personalidad":[
+                            "T","C","I"
+                        ],
+                        "favorito": false,
+                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
                     }
             ]   
 }
