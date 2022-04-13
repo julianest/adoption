@@ -102,7 +102,7 @@
                     },
                     {
                         "id":4,
-                        "imgPerfil": "./resources/img/rowly.png",
+                        "imgPerfil": "./resources/img/maicy.png",
                         "nombre":"Maicy",
                         "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/female_g6x72d.png",
                         "raza":"Perte",
