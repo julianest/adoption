@@ -2,7 +2,7 @@
     "perros":[
                     {
                         "id":1,
-                        "imgPerfil": "./img/rocky.png",
+                        "imgPerfil": "./resources/img/rocky.png",
                         "nombre":"Rocky",
                         "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/male_ty71jj.png",
                         "raza":"Rottweiler",
@@ -16,7 +16,7 @@
                     },
                     {
                         "id":2,
-                        "imgPerfil": "./img/nieve.png",
+                        "imgPerfil": "./resources/img/nieve.png",
                         "nombre":"Nieve",
                         "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/female_g6x72d.png",
                         "raza":"Copo de Nieve",
@@ -30,7 +30,7 @@
                     },
                     {
                         "id":3,
-                        "imgPerfil": "./img/bansky.png",
+                        "imgPerfil": "./resources/img/bansky.png",
                         "nombre":"Bansky",
                         "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/female_g6x72d.png",
                         "raza":"Coller",
@@ -44,7 +44,7 @@
                     },
                     {
                         "id":4,
-                        "imgPerfil": "./img/trosky.png",
+                        "imgPerfil": "./resources/img/trosky.png",
                         "nombre":"Trosky",
                         "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/male_ty71jj.png",
                         "raza":"pugg",
@@ -60,7 +60,7 @@
     "gatos":[
                     {
                         "id":1,
-                        "imgPerfil": "./img/misky.png",
+                        "imgPerfil": "./resources/img/misky.png",
                         "nombre":"Misky",
                         "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/female_g6x72d.png",
                         "raza":"Criollo",
@@ -74,7 +74,7 @@
                     },
                     {
                         "id":2,
-                        "imgPerfil": "./img/rowly.png",
+                        "imgPerfil": "./resources/img/rowly.png",
                         "nombre":"Rowly",
                         "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/male_ty71jj.png",
                         "raza":"Emirato",
@@ -88,7 +88,7 @@
                     },
                     {
                         "id":3,
-                        "imgPerfil": "./img/cowler.png",
+                        "imgPerfil": "./resources/img/cowler.png",
                         "nombre":"Cowler",
                         "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/male_ty71jj.png",
                         "raza":"Arabe",
@@ -102,7 +102,7 @@
                     },
                     {
                         "id":4,
-                        "imgPerfil": "./img/rowly.png",
+                        "imgPerfil": "./resources/img/rowly.png",
                         "nombre":"Maicy",
                         "iconoGenero": "https://res.cloudinary.com/docutv7ug/image/upload/v1649637916/Api-Adoption/female_g6x72d.png",
                         "raza":"Perte",
