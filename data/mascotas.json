@@ -12,7 +12,8 @@
                             "T","C","I"
                         ],
                         "favorito": false,
-                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                        "descripcion": "Lorem Ipsum is simply",
+                        "idUsuario": 2
                     },
                     {
                         "id":2,
@@ -26,7 +27,8 @@
                             "T","C","I"
                         ],
                         "favorito": false,
-                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                        "descripcion": "Lorem Ipsum is simply",
+                        "idUsuario": 1
                     },
                     {
                         "id":3,
@@ -40,7 +42,8 @@
                             "T","C","I"
                         ],
                         "favorito": false,
-                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                        "descripcion": "Lorem Ipsum is simply",
+                        "idUsuario": 2
                     },
                     {
                         "id":4,
@@ -54,7 +57,8 @@
                             "T","C","I"
                         ],
                         "favorito": false,
-                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                        "descripcion": "Lorem Ipsum is simply",
+                        "idUsuario": 1
                     }
                 ],
     "gatos":[
@@ -70,7 +74,8 @@
                             "T","C","I"
                         ],
                         "favorito": false,
-                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                        "descripcion": "Lorem Ipsum is simply",
+                        "idUsuario": 3
                     },
                     {
                         "id":2,
@@ -84,7 +89,8 @@
                             "T","C","I"
                         ],
                         "favorito": false,
-                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                        "descripcion": "Lorem Ipsum is simply",
+                        "idUsuario": 2
                     },
                     {
                         "id":3,
@@ -98,7 +104,8 @@
                             "T","C","I"
                         ],
                         "favorito": false,
-                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                        "descripcion": "Lorem Ipsum is simply",
+                        "idUsuario": 3
                     },
                     {
                         "id":4,
@@ -112,8 +119,32 @@
                             "T","C","I"
                         ],
                         "favorito": false,
-                        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                        "descripcion": "Lorem Ipsum is simply",
+                        "idUsuario": 1
                     }
-            ]   
+                ],
+    "usuario":[
+                    {
+                        "idU":1,
+                        "imgProfile": "./resources/img/persona1.png",
+                        "nombreU": "Paula",
+                        "apellido": "Ortiz",
+                        "correo": "paulaortiz@gmail.com"
+                    },
+                    {
+                        "idU":2,
+                        "imgProfile": "./resources/img/persona2.png",
+                        "nombreU": "Julian",
+                        "apellido": "Gonzalez",
+                        "correo": "juliangonzalez@gmail.com"
+                    },
+                    {
+                        "idU":3,
+                        "imgProfile": "./resources/img/persona3.png",
+                        "nombreU": "Maria",
+                        "apellido": "Hurtado",
+                        "correo": "mariahurtado@gmail.com"
+                    }
+            ]           
 }
 
