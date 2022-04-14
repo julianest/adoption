@@ -144,6 +144,13 @@
                         "nombreU": "Maria",
                         "apellido": "Hurtado",
                         "correo": "mariahurtado@gmail.com"
+                    },
+                    {
+                        "idU":4,
+                        "imgProfile": "./resources/img/persona4.png",
+                        "nombreU": "Fabian",
+                        "apellido": "Jaramillo",
+                        "correo": "fabianjaramillo@gmail.com"
                     }
             ]           
 }
